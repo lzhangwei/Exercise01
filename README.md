@@ -8,7 +8,7 @@ Unix的前身是MULTICS，在1973年，Unix用C语言全部重写，自此，UNI
 
 Linux并没有包括Unix源码。它是按照公开的POSIX标准重新编写的。
 
-*Linux和Unix的二者区别： *
+*Linux和Unix的二者区别：*
 
 1) Unix大多是与硬件配套的，而Linux则可运行在多个硬件平台上。
 2) Unix是商业软件，而Linux是自由软件，是免费，公开源代码的。
